@@ -1,0 +1,6 @@
+framework module Pods_FaceID {
+  umbrella header "Pods-FaceID-umbrella.h"
+
+  export *
+  module * { export * }
+}
